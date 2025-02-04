@@ -15,13 +15,13 @@ const Footer = () => {
               &nbsp;&nbsp;
               Designed by {' '}
               <Link 
-                href="https://mian-abu-obaida-portfolio.vercel.app/" 
+                href="#" 
                 target="_blank"
                 rel="sponsored"
                 title="HTML CSS Templates"
                 className="text-white font-bold hover:text-[#000] transition-colors"
               >
-                Mian Abu Obaida
+                Devsleader
               </Link>
             </p>
           </div>
